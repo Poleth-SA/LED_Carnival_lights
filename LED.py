@@ -1,4 +1,6 @@
-#Include the library files
+#This code must be ran directly on raspberry pi
+
+
 import RPi.GPIO as GPIO
 from time import sleep
 
